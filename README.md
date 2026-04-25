@@ -52,7 +52,7 @@ pytest tests/
 - **Course:** PGDip Data Science, University of the Witwatersrand
 - **Module:** Programming for Data Science Introduction
 - **Date:** March/April 2026
-- **Group:** Group 16 (my contributions: data cleaning module, metrics functions, report writing)
+- **Group:** Group 11 (my contributions: data cleaning module, metrics functions, report writing)
 
 ## Author
 
