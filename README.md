@@ -46,3 +46,16 @@ python metrics.py
 
 # Run tests
 pytest tests/
+
+## Project Context
+
+- **Course:** PGDip Data Science, University of the Witwatersrand
+- **Module:** Programming for Data Science Introduction
+- **Date:** March/April 2026
+- **Group:** Group 16 (my contributions: data cleaning module, metrics functions, report writing)
+
+## Author
+
+**Rebecca** – PGDip Data Science @Wits | Former electrician, Anglo American smelter
+
+[GitHub Profile](https://github.com/RebeccaDataSci)
